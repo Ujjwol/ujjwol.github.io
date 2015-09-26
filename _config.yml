@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://ujjwol.github.io
-baseurl: "/"
+url: http://ujjwol.com
+baseurl: "/ujjwol.com"
 
 # language attribute in <html> element.
 lang: en
