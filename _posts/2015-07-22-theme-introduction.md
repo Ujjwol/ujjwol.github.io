@@ -3,7 +3,7 @@ title: Ujjwol Lamichhane
 
 ---
 
-Hi, I'm a computer science major at [Southeastern Louisiana University](http://www.southeastern.edu/). My coursework includes: Operating Systems, Databases, Algorithms, Data Structures, Programming Languages, Computer Architecture, Software Engineering.
+Hi, I'm a computer science major at [Southeastern Louisiana University](http://www.southeastern.edu/). Some of my coursework includes: Operating Systems, Databases, Algorithms, Data Structures, Programming Languages, Computer Architecture, Software Engineering.
 
 I'll graduate in December 2015. I'm looking for interesting opportunities.
 
