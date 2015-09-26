@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Ujjwol Lamichhane
 ---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/steinvc/holo-alfa).
+Hi, I'm Ujjwol. I am a senior majoring in CS.
 
 ---
 
-Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
+[LinkedIn](https://www.linkedin.com/in/ujjwol).
